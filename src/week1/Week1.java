@@ -81,5 +81,13 @@ public class Week1 {
 		System.out.print( "Enter user entered variable 3: " );
 		int userNumber3 = input.nextInt();
 		System.out.println( "Variable 3 = " + userNumber3 );
+
+		/* Exercise for Week 1:
+		 * Write a new project that asks the user for two integers and uses those numbers to calculate their
+		 * sum, difference, product, quotient and remainder.
+		 *
+		 * After calculating these results, display them to the user.
+		 */
+
 	}
 }
